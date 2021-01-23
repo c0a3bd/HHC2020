@@ -6,10 +6,23 @@ Welcome to HHC2020's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   Kitchen
-   Roof
+   :caption: Test
    test1
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Test2
+   test2
+
+HHC20
+=====
+documenting my tasks
+
+testing code block::
+  anything here
+  and here
+
+but nothing here
 
 
 Indices and tables
@@ -18,14 +31,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-
-used to document HHC20 tasks
-
-testing code blocks
-::
-  some code here
-::
-end of code
 
 
