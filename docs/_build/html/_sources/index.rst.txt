@@ -9,6 +9,7 @@ Welcome to HHC2020's documentation!
    :caption: Contents:
    Kitchen
    Roof
+   test1
 
 
 Indices and tables
@@ -19,8 +20,12 @@ Indices and tables
 * :ref:`search`
 
 
-used to document HHC20
+used to document HHC20 tasks
 
 testing code blocks
-` some code here`
+::
+  some code here
+::
 end of code
+
+
